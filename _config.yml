@@ -19,7 +19,7 @@ skin: "/assets/css/skins/light.css"
 locale: tr_TR
 title: "Korsan.Ⲁ"
 description: "Korsan'ın alfa versiyonudur, ısrarla isteyiniz!"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -79,6 +79,11 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+collections:
+  tekamuller:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -88,6 +93,14 @@ defaults:
     values:
       layout: post
       share: true
+  
+  - scope:
+      path: "_tekamuller"
+      type: tekamuller
+    values:
+      layout: post
+      comments: false
+      share: false
 
 # Site Author
 author:
@@ -105,3 +118,7 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# ----- Buradan sonrası bende
+# Koleksiyonlar
+#
