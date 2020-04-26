@@ -16,12 +16,12 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/light.css"
-locale: tr_TR
+locale: tr
 title: "Korsan.Ⲁ"
 description: "Korsan'ın alfa versiyonudur, ısrarla isteyiniz!"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/200"
 date_format: "%B %-d, %Y"
 read_time: true# reading time estimates, e.g. true
 words_per_minute: 200
@@ -34,6 +34,10 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+  - name: "Cormorant Garamond"
+    weights: "400,400i,700,700i"
+  - name: "Acme"
+    weights: "400,400i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
@@ -58,8 +62,8 @@ paginate_path: /page:num/
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+category_archive_path: "/categories/"
+tag_archive_path: "/tags/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
