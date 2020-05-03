@@ -9,7 +9,7 @@ author:
   name: Furkan Erdem
   picture: /images/150
 ---
-# Naber?
+# Bir Halk Türküsü
 
 Melüllenme deli gönül  
 Gez bir zaman gör nic' olur  

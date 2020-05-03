@@ -9,7 +9,7 @@ author:
   name: Furkan Erdem
   picture: /images/150
 ---
-# Naber?
+# Melüllenme Deli Gönül
 
 Melüllenme deli gönül  
 Gez bir zaman gör nic' olur  
