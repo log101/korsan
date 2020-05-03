@@ -17,3 +17,14 @@ Gez bir zaman gör nic' olur
 İndir Tahtını Yüceden  
 Toz bir zaman gör nic' olur
 
+İndir Tahtını Yüceden  
+Toz bir zaman gör nic' olur
+
+İndir Tahtını Yüceden  
+Toz bir zaman gör nic' olur
+
+İndir Tahtını Yüceden  
+Toz bir zaman gör nic' olur
+
+İndir Tahtını Yüceden  
+Toz bir zaman gör nic' olur
