@@ -21,7 +21,7 @@ title: "Korsan.Ⲁ"
 description: "Korsan'ın alfa versiyonudur, ısrarla isteyiniz!"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/200"
+logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true# reading time estimates, e.g. true
 words_per_minute: 200
